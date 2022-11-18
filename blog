@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<style>
+body {width:395px;font-family:courier;font-size:16px;font-style:oblique;}
+</style>
+
+<head>
+</head>
+
+<body>
+
+<p style = "text-align:center;">
+-----------------------------------------<br>
+
+----------------- BLOG! -----------------<br>
+
+-----------------------------------------<br>
+
+---<a href="https://benjaminhawn.com" target="_self" style="color:#000000;text-decoration:none"> home </a>--------------------------------<br>
+
+--------------------<a href="https://benjaminhawn.com" target="_self" style="color:#000000;text-decoration:none"> home </a>------------------<br>
+
+----------------------------------<a href="https://benjaminhawn.com" target="_self" style="color:#000000;text-decoration:none"> home </a>---<br>
+
+-----------------------------------------<br>
+</p>
+
+
+<p style = "text-align:center;">
+<br>
+* * ENTRIES * *
+</p>
+
+<p style = "text-align:left;">
+
+<a href="https://benjaminhawn.com" target="_self" style="color:#000000;text-decoration:none">Entry 1</a><br>
+
+<a href="https://benjaminhawn.com" target="_self" style="color:#000000;text-decoration:none">Entry 2</a><br>
+
+<a href="https://benjaminhawn.com" target="_self" style="color:#000000;text-decoration:none">Entry 3</a><br>
+
+<br><br>
+
+</p>
+
+CONTACT: ben@benjaminhawn.com
+
+</p>
+
+<p style = "text-align:center;">
+(c) 2022
+</p>
+
+</body>
+
+</html>
